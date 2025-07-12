@@ -7,7 +7,7 @@ Currently working on hands-on projects in AI/ML and GitHub portfolio building
 Always curious to learn and grow as an AI developer  
 
 Skills
-- Programming: Python, C (Basics)
+- Programming: Python, C (Basics), Data Structure and Algorithm 
 - AI/ML Tools: NumPy, Pandas, Scikit-learn, TensorFlow, Keras
 - Databases: MySQL (Basics)
 - Tools: Git, GitHub, Jupyter, VS Code
